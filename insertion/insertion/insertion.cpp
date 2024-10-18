@@ -20,6 +20,8 @@ void insertionSort(int arr[], int N) {
         // Move the key to its correct position
         arr[j + 1] = key;
     }
+
+
 }
 
 int main() {
